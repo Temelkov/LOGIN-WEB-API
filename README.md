@@ -1,5 +1,5 @@
 # LOGIN-WEB-API
-The project use JWT !
+The project use JWT and Swagger !
 
 Accout info:
 U: test
