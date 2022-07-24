@@ -1,0 +1,144 @@
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.staticwebassets.runtime.json
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.exe
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.deps.json
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.runtimeconfig.json
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.pdb
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Scrutor.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.csproj.AssemblyReference.cache
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.AssemblyInfoInputs.cache
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.AssemblyInfo.cs
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.csproj.CoreCompileInputs.cache
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.RazorAssemblyInfo.cache
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.RazorAssemblyInfo.cs
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Temelkov_LOGIN-WEB-API.styles.css
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\Temelkov_LOGIN-WEB-API.bundle.scp.css
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.csproj.CopyComplete
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\Temelkov_LOGIN-WEB-API.dll
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.pdb
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.genruntimeconfig.cache
+C:\Users\Temelkov\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\Temelkov_LOGIN-WEB-API.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\appsettings.json
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.staticwebassets.runtime.json
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.exe
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.deps.json
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.runtimeconfig.json
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.pdb
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Scrutor.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.csproj.AssemblyReference.cache
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.AssemblyInfoInputs.cache
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.AssemblyInfo.cs
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.csproj.CoreCompileInputs.cache
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.RazorAssemblyInfo.cache
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.RazorAssemblyInfo.cs
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\scopedcss\bundle\Temelkov_LOGIN-WEB-API.styles.css
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\scopedcss\projectbundle\Temelkov_LOGIN-WEB-API.bundle.scp.css
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.csproj.CopyComplete
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\refint\Temelkov_LOGIN-WEB-API.dll
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.pdb
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.genruntimeconfig.cache
+C:\Users\Temelkov\source\repos\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\ref\Temelkov_LOGIN-WEB-API.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\appsettings.Development.json
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\appsettings.json
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.staticwebassets.runtime.json
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.exe
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.deps.json
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.runtimeconfig.json
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Temelkov_LOGIN-WEB-API.pdb
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Microsoft.OpenApi.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Newtonsoft.Json.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Scrutor.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\bin\Debug\net6.0\System.Security.Permissions.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.csproj.AssemblyReference.cache
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.GeneratedMSBuildEditorConfig.editorconfig
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.AssemblyInfoInputs.cache
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.AssemblyInfo.cs
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.csproj.CoreCompileInputs.cache
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.MvcApplicationPartsAssemblyInfo.cs
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.MvcApplicationPartsAssemblyInfo.cache
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.RazorAssemblyInfo.cache
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.RazorAssemblyInfo.cs
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\staticwebassets.build.json
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\staticwebassets.development.json
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\scopedcss\bundle\Temelkov_LOGIN-WEB-API.styles.css
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\scopedcss\projectbundle\Temelkov_LOGIN-WEB-API.bundle.scp.css
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.csproj.CopyComplete
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\refint\Temelkov_LOGIN-WEB-API.dll
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.pdb
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\Temelkov_LOGIN-WEB-API.genruntimeconfig.cache
+P:\TESTOVI ZADACHI ZA RABOTA\INTELLISYS\FINAL\Temelkov_LOGIN-WEB-API\src\obj\Debug\net6.0\ref\Temelkov_LOGIN-WEB-API.dll

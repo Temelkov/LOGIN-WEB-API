@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+ <script
+      src="https://code.jquery.com/jquery-3.6.0.js"
+      integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+      crossorigin="anonymous"></script>
+
+    @*<div class="container">
+        <div class="text-center">
+            <div class="text-center">
+                <h1 class="display-4">Welcome To IntelliSys</h1>
+                <p>Please login with your credentials. (U: test, P: test)</p>
+            </div>
+        </div>
+    </div>*@
+
+<div class="container">
+    <div class="text-center">
+    <div class="login-box">
+      <div class="container">
+        <div class="text-center">
+            <div class="text-center">
+                <h1 class="display-4">Welcome To IntelliSys</h1>
+                <p>Please login with your credentials. <b>(U: test, P: test)</b></p>
+            </div>
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+      <form id="contact-form">
+        <div class="user-box">
+          <input type="text" name="username" id="username" required="">
+          <label>Username</label>
+        </div>
+        <div class="user-box">
+          <input type="password" name="password" id="password" required="">
+          <label>Password</label>
+        </div>
+        <a>
+          <b><input type="submit" value="LOGIN" id="sub"></b>
+        </a>
+        <br />
+        <br />
+        <br />
+        <div class="user-box" id="jwtToken" style="font-weight: bold;">Your JWT token is: </div>
+      </form>
+    </div>
+
+    <script>
+    var json;
+      function convertFormToJSON(form) {
+        const array = $(form).serializeArray();
+        json = {};
+        $.each(array, function () {
+          json[this.name] = this.value || "";
+        });
+        return json;
+      }
+
+        $("#contact-form").on("submit", function(e) {
+            e.preventDefault();
+            const form = $(e.target);
+            json = convertFormToJSON(form);
+            console.log(JSON.stringify(json));
+
+            $.ajax({
+                    type: "POST",
+                    url: "api/Auth/login",
+                    contentType: 'application/json',
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        //alert(data);
+                        document.getElementById('jwtToken').innerHTML = 'Your JWT token is: ' + data;
+                    },
+                    error: function (error) {
+                        jsonValue = jQuery.parseJSON(error.responseText);
+                    }
+                });
+        });
+    </script>
+    </div>
+</div>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temelkov_LOGIN-WEB-API", "src\Temelkov_LOGIN-WEB-API.csproj", "{45D1CBD9-80E1-4FFE-8A74-562F5D0F6DEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D1CBD9-80E1-4FFE-8A74-562F5D0F6DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D1CBD9-80E1-4FFE-8A74-562F5D0F6DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D1CBD9-80E1-4FFE-8A74-562F5D0F6DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D1CBD9-80E1-4FFE-8A74-562F5D0F6DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D01B482-5A2A-4B01-B585-598C2688D117}
+	EndGlobalSection
+EndGlobal
